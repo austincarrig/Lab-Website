@@ -1,0 +1,7 @@
+.mainbody p:first-of-type {
+    margin-top: 120px;
+}
+
+.mainbody p:last-of-type {
+    margin-bottom: 120px;
+}
