@@ -29,6 +29,9 @@ h1 {
     height: 80px;
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
+    border-bottom: 1 !important;
+    border-bottom-color: rgb(235,235,235);
+    box-shadow: 0px 1px 10px #666;
 }
 
 .navbar .container {
@@ -52,6 +55,8 @@ header {
     margin-top: 80px !important;
     padding: 0 !important;
     background: rgba(237, 213, 28, 0.7);
+    -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
 }
 
 header .content,
@@ -142,4 +147,16 @@ footer a:hover {
 
 .bold {
     font-weight: 600 !important;
+}
+
+.bw {
+    -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.transitions:hover {
+    -webkit-filter: grayscale(0);
+	filter: grayscale(0);
 }
