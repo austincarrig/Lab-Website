@@ -1,0 +1,11 @@
+iframe {
+    width: 60%;
+    max-width: 900;
+    min-width: 500;
+    display: block;
+    margin: 0 auto;
+    margin-top: 120px !important;
+    margin-bottom: 120px !important;
+    height: 3550px;
+    border: 0;
+}
