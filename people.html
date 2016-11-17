@@ -23,6 +23,35 @@
 
     <script src="js/popupAddition.js"></script>
 
+    <script>
+        $(function() {
+            $("a").click(function() {
+                var id = $(this).attr("id");
+                $.getJSON("bio.json",id,function( data ) {
+                    $.each( data, function( key, val ) {
+                        if (key == id) {
+                            $.each(val, function( key, val ) {
+                                if (key == "bioImage") {
+                                    $("#bioImage").attr("src","img/lab_photos/" + val);
+                                } else if (key == "bioHeading") {
+                                    $("#" + key).empty();
+                                    document.getElementById(key).append(val);
+                                } else {
+                                    $("#" + key).empty();
+                                    for (i = 0; i < val.length; i++) {
+                                        var para = document.createElement("p");
+                                        para.innerHTML = val[i];
+                                        document.getElementById(key).append(para);
+                                    }
+                                }
+                            });
+                        }
+                    });
+                });
+            });
+        });
+    </script>
+
     <!--Creates the navigation bar on the top of the screen-->
     <div class="nav"></div>
 
@@ -37,22 +66,22 @@
            <h3>Lab Directors</h3>
             <div class="col-sm-4">
                <img src="img/lab_photos/angelone.JPG" class="bw transitions">
-               <h5><a class="heavy">D.J. Angelone, Ph.D.</a> | Lab Director</h5>
+               <h5><a href="#openModal" id="angelone" class="heavy">D.J. Angelone, Ph.D.</a> | Lab Director</h5>
             </div>
             <div class="col-sm-4">
                <img src="img/lab_photos/joppa.JPG" class="bw transitions">
-               <h5>Meredith C. Joppa, Ph.D. | Lab Director</h5>
+               <h5><a href="#openModal" id="joppa" class="heavy">Meredith C. Joppa, Ph.D.</a> | Lab Director</h5>
             </div>
         </div>
         <div class="row">
            <h3>Graduate Students</h3>
            <div class="col-sm-4">
                <img src="img/lab_photos/cantor.JPG" class="bw transitions">
-               <h5>Nicki Cantor | Doctoral Student</h5>
+               <h5><a href="#openModal" id="cantor" class="heavy">Nicole Cantor</a> | Doctoral Student</h5>
             </div>
             <div class="col-sm-4">
                <img src="img/lab_photos/garriga.JPG" class="bw transitions">
-               <h5>Jannette Garriga | Doctoral Student</h5>
+                <h5><a href="#openModal" id="garriga" class="heavy">Jannette Garriga</a> | Doctoral Student</h5>
             </div>
         </div>
         <div class="row">

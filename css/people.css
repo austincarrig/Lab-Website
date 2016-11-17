@@ -66,13 +66,17 @@ h5 {
 	right: 0 !important;
 	bottom: 0 !important;
 	left: 0 !important;
-	background: rgba(0,0,0,1.0);
+	background: #661a1a;
 	z-index: 99999;
 	opacity: 0;
 	-webkit-transition: opacity 400ms ease-in;
 	-moz-transition: opacity 400ms ease-in;
 	transition: opacity 400ms ease-in;
 	pointer-events: none;
+}
+
+.modalDialog * {
+    color: black;
 }
 
 .modalDialog:target {
@@ -83,12 +87,13 @@ h5 {
 .modalDialog > .container {
     order: 2;
     align-self: center;
-    color: white !important;
-	width: 700px;
+    color: black !important;
+    max-height: 60%;
+	width: 80%;
 	position: relative;
-	margin: 10% auto;
+	margin: 0 auto;
 	padding: 5px 20px 13px 20px;
-	background: #000;
+	background: #661a1a;
 }
 
 .close {
@@ -96,7 +101,7 @@ h5 {
     margin-top: 3%;
     margin-right: 3%;
     align-self: flex-end;
-	background: #000;
+	background: #661a1a;
 	color: white;
     opacity: 1;
 	line-height: 25px;
@@ -106,10 +111,19 @@ h5 {
 	font-weight: bold;
 }
 
-.close:hover { color: #ddd; }
+.close:hover {
+    color: #ddd;
+}
 
 
 .modalDialog img {
+    max-width: 370px;
     width: 100%;
     height: auto;
+    margin: 0 auto;
+}
+
+#bioContent {
+    overflow-y: scroll;
+    max-height: 50%;
 }
