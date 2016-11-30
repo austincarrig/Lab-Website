@@ -1,0 +1,96 @@
+{
+    "angelone":{
+        "bioContent":["Dr. DJ Angelone completed his undergraduate work at California State University at Sacramento where he earned a BA in Psychology. Once a business major, he changed to psychology after taking a course on Human Sexuality and working in the field at a group home applying behavioral principles to train children with Autism.  He received his Masters and Doctorate degrees from Kent State University in Clinical Psychology.  As a Golden Flash, he worked with Dr. Richard Hirschman creating laboratory models of sexual aggression.  During his latter years, he began developing an interest in alcohol intoxication as a predictor of sexually aggressive experiences and pursued some of these ideas for his dissertation. These ideas were further harnessed after spending a sabbatical under the mentorship of Drs. Bill George, Kelly Davis, and Jeannette Norris of the University of Washington, where he learned the process of conducting alcohol administration research.",
+                     "At current, Dr. Angelone is mainly interested in studying sexual aggression and sexual risk taking, with a sub-interest in treating substance problems (both 12-step and motivation to change models).  He has co-developed several laboratory analogues of sexual aggression, including perpetrator and victim paradigms, as well as vignette scenario work to examine observer attributions of blame.  Dr. Angelone has recently established his own alcohol administration lab and is currently examining the effects of alcohol on sexual decision-making.  He has also developed an interest in understanding sexual risk taking and has examined factors relevant to several high-risk groups, including study abroad students.",
+                     "Recently, his collaboration with Dr. Joppa has led to interests related to prevention of sexual violence and increasing healthy romantic relationships amongst young adults.When he is not studying &ldquo;bad sex&rdquo; he can be found in the classroom teaching undergraduate courses in abnormal psychology, human sexuality, and the portrayal of psychology in film, as well as graduate courses in interviewing and clinical intervention. When he clocks out of the office, he spend his time with his wife, Bonnie (Mrs. Dr. Angelone) and his two sons, Drew and Gabe.  Given some roots in Northern CA and Oregon, he is prone to finding himself involved in outdoor activities including: hiking, biking, skiing, camping, backpacking, fishing, kayaking, and gardening.  He is an avid adventure racer, making the podium several times and plays softball regularly, managing several championship teams.  When &ldquo;stuck&rdquo; indoors, he often homebrews, cooks, pickles, and &ldquo;builds stuff,&rdquo; while also planning his next vacation/traveling experience."],
+        "bioHeading":"Dr. D.J. Angelone",
+        "bioImage":"angelone.JPG"
+    },
+    "joppa":{
+        "bioContent":["Dr. Joppa is interested in promoting healthy romantic relationships and sexual behavior among at-risk adolescents and young adults. She uses attachment theory to examine the links between romantic relationship skills and risk for dating violence, sexually transmitted infections, unintended pregnancy and HIV. She is interested in developing interventions to prevent these relationship risk behaviors, and is currently channeling these research interests into developing an intervention for adolescent mothers aimed at preventing rapid repeat pregnancy, STIs and HIV with an emphasis on fostering healthy relationship skills. In addition, she has an interest in using longitudinal research designs and statistical modeling techniques, including structural equation modeling and hierarchical linear modeling, to address her research questions.",
+                      "Dr. Joppa is a Licensed Clinical Psychologist in the State of New Jersey. Primarily a clinical child and pediatric psychologist, she has training in cognitive-behavioral, interpersonal, and dialectical behavior therapy. She specializes in working with HIV-infected youth and their families, as well as providing group interventions using affect management to target HIV and dating violence prevention for at-risk adolescents. More broadly, her clinical interests include working with adolescents, couples' therapy, medication adherence, psychological assessment, internalizing disorders, trauma, behavior management, sleep and feeding difficulties, and perinatal mental health. She has worked in hospital, school, juvenile justice, and outpatient settings.",
+                      "In her free time, Dr. Joppa loves spending time with her husband and  daughter, traveling, going to concerts, being active outdoors, and playing fantasy football."],
+        "bioHeading":"Dr. Meredith Joppa",
+        "bioImage":"joppa.JPG"
+    },
+    "cantor":{
+        "bioContent":["Nicole Cantor is a first year Doctoral Student in Rowan’s inaugural Clinical Psychology Ph.D. Program. She hails from Philadelphia, PA where she was happy to return after working in the Bronx, New York as a Clinical Care Manager for mentally ill substance abusing (MICA) clients for two years. She earned her B.A. in Psychology and Writing Seminars from Johns Hopkins University and has worked in research labs all over the country&mdash;from a neuropsychology lab at Hopkins to a social psychology lab embedded in the School of Education and Department of Psychology at Stanford University. Thanks to a bevy of experience and exposure to the field of psychology, her interests have evolved and shifted towards studying sexual aggression in collegiate athletes and childhood sexual assault victim’s perception of like victims. In addition, she hopes to learn more about current interventions for victims of childhood sexual assault in order to research factors that could contribute to breaking the cycle of revictimization."],
+        "bioHeading":"Nicole Cantor",
+        "bioImage":"cantor.JPG"
+    },
+    "garriga":{
+        "bioContent":["Jannette is a first year Doctoral Student in Rowan University’s inaugural Clinical Psychology Ph.D. class. She is a bilingual, north Jersey native who aspires to ultimately become a Clinical Neuropsychologist. Prior to her acceptance into this Ph.D. program, she obtained her B.A. from New Jersey City University, and conducted National Science Foundation (NSF) funded research for a neuroscience program at Brooklyn College. She also obtained experience by performing neuropsychological evaluations on a diverse population. Her research interests are investigating the etiology of risky behaviors such as sexual activities and substance use, to ultimately improve preventative/intervention programs for adolescents and young adults."],
+        "bioHeading":"Jannette Garriga",
+        "bioImage":"garriga.JPG"
+    },
+    "fish":{
+        "bioContent":["Alex is a junior Psychology major with a Women and Gender studies concentration. She is currently involved with the Young Mom's Relationship Project. She is also interning at Hopeworks 'N Camden. Her research interests include PTSD and sexual assault. Alex's long-term goal is to obtain a Master's degree in Clinical or Counseling Psychology and practice as a trauma counselor, with a focus in sexual assault and domestic violence."],
+        "bioHeading":"Alexandra Fish",
+        "bioImage":"fish.JPG"
+    },
+    "taylor":{
+        "bioContent":["Rachel is a first year graduate student in the Clinical Mental Health Counseling program.  Currently, Rachel is a Graduate Research Assistant for Center of Access, Success, and Equity in the College of Education. She received her B.A. in Psychology from Rowan and has been a member of ASSeRT since 2014. Her primary research interest focuses on cyber dating abuse in adolescents. In addition, she is also a research assistant for the Young Moms Relationship Project. In her free time, Rachel enjoys spending time outdoors; playing various sports, hiking, and running."],
+        "bioHeading":"Rachel Taylor",
+        "bioImage":"taylor.JPG"
+    },
+    "gallos":{
+        "bioContent":["Eric is a second year masters student at Rowan and has been a member of the ASSeRT lab since the fall of 2015. He served as an experimenter on the ASSeRT lab’s Themes in the media II project in 2015-2016 and is currently working on his master’s thesis project, Themes in the media III. In his spare time, Eric enjoys reading psychology-based literature, long distance running, and watching sports."],
+        "bioHeading":"Eric Gallos",
+        "bioImage":"gallos.JPG"
+    },
+    "bleiweiss":{
+        "bioContent":["Kaitlyn is a senior undergraduate student majoring in Psychological Science with a minor in German and concentration in Honors Studies. She has been in ASSeRT for almost three years and during that time has developed interests in data and statistical analyses and procedures. She plans on pursuing a degree in quantitative psychology or quantitative methods. While she loves statistics, her specific research interests in ASSeRT are in personality and sexual aggression. In her free time she likes to watch Netflix, do yoga, color, and read."],
+        "bioHeading":"Kaitlyn Bleiweiss",
+        "bioImage":"bleiweiss.JPG"
+    },
+    "dugme":{
+        "bioContent":["Ebru is a second-year graduate student in the Masters in Clinical and Mental Health Counseling program here at Rowan University. She comes from a Turkish-Muslim family, whom she values greatly and enjoys spending the weekends with. In her free time, Ebru binges on Netflix and shops online. Ebru graduated from Rutgers University, majoring in Psychology and Biology, while minoring in Neuroscience. Ebru is project leader for the Young Mom's Relationship Project.  She would like to continue school after her master's degree to obtain a PhD in Clinical Psychology. Her career aspirations include teaching and research in academia as well as private practice."],
+        "bioHeading":"Ebru Dugme",
+        "bioImage":"dugme.JPG"
+    },
+    "duphiney":{
+        "bioContent":["Mariah is a junior psychology major who has been a member of the ASSeRT lab since September of 2016. She is currently exploring her interests in lab by participating in data entry and data collection for the NCAA study, coding for the Study Abroad Project, and practicing writing syntax and locating measures for the lab’s Measures Project. While her research interests are being explored, she has found particular interests in trauma and sexual assault and her long term goals include a graduate degree in clinical psychology."],
+        "bioHeading":"Mariah Duphiney",
+        "bioImage":"duphiney.JPG"
+    },
+    "perez":{
+        "bioContent":["Hailee Perez is a junior studying psychology and art here at Rowan University, from Freehold, NJ.  In addition to being in the lab, she is on the executive board for her sorority. She is also doing a field experience with Bancroft. She works in The Lindens Center for Autism. Which blends Bancroft’s expertise in behavioral health for children with autism and dual diagnoses to with a continuum of residential programs to provide more intensive therapy, support and skills development while enrolled in The Bancroft School. She can also loves music, coffee mugs, candles, and reading. She is in her first year of joining lab, and is enjoying dipping her toes in every area it has to offer while finding her place."],
+        "bioHeading":"Hailee Perez",
+        "bioImage":"perez.JPG"
+    },
+    "beulah":{
+        "bioContent":["Brianna Beulah is a junior undergraduate Psychology major, with a Women & Gender Studies concentration; she joined the ASSeRT Lab in January of 2015. Brianna has been an employee of Avenues to Independent Living as a Direct Support Professional since the August of 2014, providing reinforcement and direct care for individuals with varying disabilities. Brianna has also recently become a certified Confidential Sexual Violence Advocate by Services Empowering Rights of Victims (SERV), as a part of Gloucester County’s Sexual Assault Response Team. Brianna aspires to continue her education and obtain a graduate degree in counseling, with the overall goal of being accepted into a Clinical Psychology or Public Health PhD program thereafter."],
+        "bioHeading":"Brianna Beulah",
+        "bioImage":"beulah.JPG"
+    },
+    "cavarocchi":{
+        "bioContent":["Hello my name is Tyler Cavarocchi. I am a sophomore and entering my second semester in lab. In lab I work on a few projects. I am a coder for the study abroad project. IN this study we look at several different college websites gathering information on their particular policies involving sexual assault, safe sex, drugs, and alcohol. Another project I will be working on is Themes 3. For this project I will be one of the lead investigators. The goal of this study is to see if there is a link between violent inducing video games and sexual assault.",
+                      "Other than lab I participate in a few other activities. I am on the executive board, as a treasurer, for the club Psychology Alliance. I also play club volleyball for Rowan. During this time I play several different intramurals sports. Some of these intramurals include flag football, wallyball, volleyball, and beach volleyball."],
+        "bioHeading":"Tyler Cavarocchi",
+        "bioImage":"cavarocchi.JPG"
+    },
+    "fullard":{
+        "bioContent":["Meet Melanie! Melanie is a second year graduate student in the M.A. in Clinical Mental Health Counseling program here at Rowan University. Melanie completed her undergraduate studies at Albright College (Reading, PA) in 2014, where she earned her B.S. in Psychobiology with a minor in Evolutionary Studies. During her undergraduate career, Melanie completed two research projects alongside her professors, one of which she had the opportunity to present at the 2013 Eastern Psychological Association conference. Melanie is actively involved in the ASSeRT Lab, and is the project coordinator for a developing study on Romantic Orientation.",
+                      "Currently, Melanie is completing her practicum for her M.A. program at the Joseph J. Peter’s Institute in Philadelphia, PA, where she provides counseling services to children, teen, and adult trauma survivors, largely sexual trauma. Melanie is passionate about helping those who have suffered from traumatic experiences, helping them to overcome challenges they may face in life, finding their inner strength through the counseling process, and helping them to develop the tools they need live their best lives possible.",
+                      "Melanie is a Philadelphia native who “loves” to run. She just recently completed her first half marathon in over 6 years, and to date she has completed three full marathons, and four half marathons. She is now trying to plan out her 2017 race season, and hopes to run another full marathon in the upcoming year. In her spare time Melanie enjoys eating, spending time with her family, learning, searching for shows on Netflix to binge-watch, and finding new and exciting things to do!"],
+        "bioHeading":"Melanie Fullard",
+        "bioImage":"fullard.JPG"
+    },
+    "wright":{
+        "bioContent":["Emily Wright is a Senior Psychology major with a concentration in Neuroscience. Emily is part of the Honors program and also leads our Healthy Relationships for Student Athletes study in which we are surveying all of Rowan's Athletes. Emily aspires to continue onto a graduate degree in clinical psychology and is looking forward to continued collaboration with Drs. Joppa and Angelone."],
+        "bioHeading":"Emily Wright",
+        "bioImage":"wright.JPG"
+    },
+    "zucca":{
+        "bioContent":["Katie Zucca is a non-matriculating student at Rowan University. She graduated from Wilmington Friends High School in June 2016 and decided to take a gap year prior to attending Furman University. Katie is using her gap year as a way to explore possible career interests. The ASSeRT Lab has been instrumental in gaining insight into the field of psychology and how that applies to teens."],
+        "bioHeading":"Katie Zucca",
+        "bioImage":"zucca.JPG"
+    },
+    "domico":{
+        "bioContent":["Sarah Domico is in her first year of the Master’s in Mental Health Counseling Program at Rowan. She is presently assisting with the Young Moms Relationship Project (YMRP) and intends to become increasingly involved with ASSeRT’s various research opportunities as the year progresses.",
+                      "Sarah coordinates the peer mentor program for the College of Science and Mathematics in addition to working as a per diem counselor in a partial hospitalization program. She also volunteers as an advocate to empower survivors of sexual violence and hopes to volunteer with human trafficking survivors as well. Sarah’s primary goal is to work with underserved populations in a community mental health setting and she aspires to work with women who are trafficked abroad.",
+                      "During her copious amounts of free time, some of Sarah’s favorite activities include traveling, hiking, trying new restaurants, reading on the beach and playing Settlers of Catan. Sarah can be reached by email at domico21@students.rowan.edu."],
+        "bioHeading":"Sarah Domico",
+        "bioImage":"domico.JPG"
+    }
+}

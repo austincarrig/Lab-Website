@@ -1,5 +1,6 @@
 * {
     font-family: 'Raleway', sans-serif;
+    color: #661a1a;
 }
 
 html,body {
@@ -17,10 +18,12 @@ body {
 }
 
 h1 {
+    color: #661a1a;
     text-transform: uppercase;
     font-size: 24px;
     font-family: 'Raleway', sans-serif;
     font-weight: 300;
+    text-align: center;
 }
 
 .navbar {
@@ -29,6 +32,9 @@ h1 {
     height: 80px;
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
+    border-bottom: 1 !important;
+    border-bottom-color: rgb(235,235,235);
+    box-shadow: 0px 1px 10px #666;
 }
 
 .navbar .container {
@@ -38,6 +44,10 @@ h1 {
     height: 50px;
     margin: -25px 0 0 0;
     box-sizing: border-box;
+}
+
+.nav a {
+    color: #661a1a !important;
 }
 
 .nav a:hover {
@@ -51,7 +61,7 @@ header {
     margin: 0 !important;
     margin-top: 80px !important;
     padding: 0 !important;
-    background: rgba(237, 213, 28, 0.7);
+    background: rgba(180, 180, 180, 0.7);
 }
 
 header .content,
@@ -62,11 +72,6 @@ header .content,
     height: 80px;
     margin: -40px 0 0 -300px;
     box-sizing: border-box;
-}
-
-header .content h1 {
-    color: white;
-    text-align: center;
 }
 
 .mainbody {
@@ -84,7 +89,7 @@ h4,
 }
 
 h4 {
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     font-weight: 600;
 }
 
@@ -103,7 +108,7 @@ h4 {
 
 footer {
     height: 300px;
-    background: rgba(30,30,30,1);
+    background: #661a1a;
     position: relative;
 }
 
@@ -114,10 +119,10 @@ footer .container {
     height: 120px;
     margin: -60px 0 0 -300px;
     box-sizing: border-box;
-    color: white;
 }
 
 footer p {
+    color: white;
     text-align: center;
 }
 
@@ -132,7 +137,7 @@ footer a:visited {
 }
 
 footer a:hover {
-    color:white;
+    color: white;
     text-decoration: none;
 }
 
@@ -142,4 +147,20 @@ footer a:hover {
 
 .bold {
     font-weight: 600 !important;
+}
+
+.bw {
+    -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.transitions:hover {
+    -webkit-filter: grayscale(0);
+	filter: grayscale(0);
+}
+
+.navbar-collapse {
+    background: white;
 }
