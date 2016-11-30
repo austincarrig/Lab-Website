@@ -22,5 +22,75 @@
         "bioContent":["Jannette is a first year Doctoral Student in Rowan University’s inaugural Clinical Psychology Ph.D. class. She is a bilingual, north Jersey native who aspires to ultimately become a Clinical Neuropsychologist. Prior to her acceptance into this Ph.D. program, she obtained her B.A. from New Jersey City University, and conducted National Science Foundation (NSF) funded research for a neuroscience program at Brooklyn College. She also obtained experience by performing neuropsychological evaluations on a diverse population. Her research interests are investigating the etiology of risky behaviors such as sexual activities and substance use, to ultimately improve preventative/intervention programs for adolescents and young adults."],
         "bioHeading":"Jannette Garriga",
         "bioImage":"garriga.JPG"
+    },
+    "fish":{
+        "bioContent":["Alex is a junior Psychology major with a Women and Gender studies concentration. She is currently involved with the Young Mom's Relationship Project. She is also interning at Hopeworks 'N Camden. Her research interests include PTSD and sexual assault. Alex's long-term goal is to obtain a Master's degree in Clinical or Counseling Psychology and practice as a trauma counselor, with a focus in sexual assault and domestic violence."],
+        "bioHeading":"Alexandra Fish",
+        "bioImage":"fish.JPG"
+    },
+    "taylor":{
+        "bioContent":["Rachel is a first year graduate student in the Clinical Mental Health Counseling program.  Currently, Rachel is a Graduate Research Assistant for Center of Access, Success, and Equity in the College of Education. She received her B.A. in Psychology from Rowan and has been a member of ASSeRT since 2014. Her primary research interest focuses on cyber dating abuse in adolescents. In addition, she is also a research assistant for the Young Moms Relationship Project. In her free time, Rachel enjoys spending time outdoors; playing various sports, hiking, and running."],
+        "bioHeading":"Rachel Taylor",
+        "bioImage":"taylor.JPG"
+    },
+    "gallos":{
+        "bioContent":["Eric is a second year masters student at Rowan and has been a member of the ASSeRT lab since the fall of 2015. He served as an experimenter on the ASSeRT lab’s Themes in the media II project in 2015-2016 and is currently working on his master’s thesis project, Themes in the media III. In his spare time, Eric enjoys reading psychology-based literature, long distance running, and watching sports."],
+        "bioHeading":"Eric Gallos",
+        "bioImage":"gallos.JPG"
+    },
+    "bleiweiss":{
+        "bioContent":["Kaitlyn is a senior undergraduate student majoring in Psychological Science with a minor in German and concentration in Honors Studies. She has been in ASSeRT for almost three years and during that time has developed interests in data and statistical analyses and procedures. She plans on pursuing a degree in quantitative psychology or quantitative methods. While she loves statistics, her specific research interests in ASSeRT are in personality and sexual aggression. In her free time she likes to watch Netflix, do yoga, color, and read."],
+        "bioHeading":"Kaitlyn Bleiweiss",
+        "bioImage":"bleiweiss.JPG"
+    },
+    "dugme":{
+        "bioContent":["Ebru is a second-year graduate student in the Masters in Clinical and Mental Health Counseling program here at Rowan University. She comes from a Turkish-Muslim family, whom she values greatly and enjoys spending the weekends with. In her free time, Ebru binges on Netflix and shops online. Ebru graduated from Rutgers University, majoring in Psychology and Biology, while minoring in Neuroscience. Ebru is project leader for the Young Mom's Relationship Project.  She would like to continue school after her master's degree to obtain a PhD in Clinical Psychology. Her career aspirations include teaching and research in academia as well as private practice."],
+        "bioHeading":"Ebru Dugme",
+        "bioImage":"dugme.JPG"
+    },
+    "duphiney":{
+        "bioContent":["Mariah is a junior psychology major who has been a member of the ASSeRT lab since September of 2016. She is currently exploring her interests in lab by participating in data entry and data collection for the NCAA study, coding for the Study Abroad Project, and practicing writing syntax and locating measures for the lab’s Measures Project. While her research interests are being explored, she has found particular interests in trauma and sexual assault and her long term goals include a graduate degree in clinical psychology."],
+        "bioHeading":"Mariah Duphiney",
+        "bioImage":"duphiney.JPG"
+    },
+    "perez":{
+        "bioContent":["Hailee Perez is a junior studying psychology and art here at Rowan University, from Freehold, NJ.  In addition to being in the lab, she is on the executive board for her sorority. She is also doing a field experience with Bancroft. She works in The Lindens Center for Autism. Which blends Bancroft’s expertise in behavioral health for children with autism and dual diagnoses to with a continuum of residential programs to provide more intensive therapy, support and skills development while enrolled in The Bancroft School. She can also loves music, coffee mugs, candles, and reading. She is in her first year of joining lab, and is enjoying dipping her toes in every area it has to offer while finding her place."],
+        "bioHeading":"Hailee Perez",
+        "bioImage":"perez.JPG"
+    },
+    "beulah":{
+        "bioContent":["Brianna Beulah is a junior undergraduate Psychology major, with a Women & Gender Studies concentration; she joined the ASSeRT Lab in January of 2015. Brianna has been an employee of Avenues to Independent Living as a Direct Support Professional since the August of 2014, providing reinforcement and direct care for individuals with varying disabilities. Brianna has also recently become a certified Confidential Sexual Violence Advocate by Services Empowering Rights of Victims (SERV), as a part of Gloucester County’s Sexual Assault Response Team. Brianna aspires to continue her education and obtain a graduate degree in counseling, with the overall goal of being accepted into a Clinical Psychology or Public Health PhD program thereafter."],
+        "bioHeading":"Brianna Beulah",
+        "bioImage":"beulah.JPG"
+    },
+    "cavarocchi":{
+        "bioContent":["Hello my name is Tyler Cavarocchi. I am a sophomore and entering my second semester in lab. In lab I work on a few projects. I am a coder for the study abroad project. IN this study we look at several different college websites gathering information on their particular policies involving sexual assault, safe sex, drugs, and alcohol. Another project I will be working on is Themes 3. For this project I will be one of the lead investigators. The goal of this study is to see if there is a link between violent inducing video games and sexual assault.",
+                      "Other than lab I participate in a few other activities. I am on the executive board, as a treasurer, for the club Psychology Alliance. I also play club volleyball for Rowan. During this time I play several different intramurals sports. Some of these intramurals include flag football, wallyball, volleyball, and beach volleyball."],
+        "bioHeading":"Tyler Cavarocchi",
+        "bioImage":"cavarocchi.JPG"
+    },
+    "fullard":{
+        "bioContent":["Meet Melanie! Melanie is a second year graduate student in the M.A. in Clinical Mental Health Counseling program here at Rowan University. Melanie completed her undergraduate studies at Albright College (Reading, PA) in 2014, where she earned her B.S. in Psychobiology with a minor in Evolutionary Studies. During her undergraduate career, Melanie completed two research projects alongside her professors, one of which she had the opportunity to present at the 2013 Eastern Psychological Association conference. Melanie is actively involved in the ASSeRT Lab, and is the project coordinator for a developing study on Romantic Orientation.",
+                      "Currently, Melanie is completing her practicum for her M.A. program at the Joseph J. Peter’s Institute in Philadelphia, PA, where she provides counseling services to children, teen, and adult trauma survivors, largely sexual trauma. Melanie is passionate about helping those who have suffered from traumatic experiences, helping them to overcome challenges they may face in life, finding their inner strength through the counseling process, and helping them to develop the tools they need live their best lives possible.",
+                      "Melanie is a Philadelphia native who “loves” to run. She just recently completed her first half marathon in over 6 years, and to date she has completed three full marathons, and four half marathons. She is now trying to plan out her 2017 race season, and hopes to run another full marathon in the upcoming year. In her spare time Melanie enjoys eating, spending time with her family, learning, searching for shows on Netflix to binge-watch, and finding new and exciting things to do!"],
+        "bioHeading":"Melanie Fullard",
+        "bioImage":"fullard.JPG"
+    },
+    "wright":{
+        "bioContent":["Emily Wright is a Senior Psychology major with a concentration in Neuroscience. Emily is part of the Honors program and also leads our Healthy Relationships for Student Athletes study in which we are surveying all of Rowan's Athletes. Emily aspires to continue onto a graduate degree in clinical psychology and is looking forward to continued collaboration with Drs. Joppa and Angelone."],
+        "bioHeading":"Emily Wright",
+        "bioImage":"wright.JPG"
+    },
+    "zucca":{
+        "bioContent":["Katie Zucca is a non-matriculating student at Rowan University. She graduated from Wilmington Friends High School in June 2016 and decided to take a gap year prior to attending Furman University. Katie is using her gap year as a way to explore possible career interests. The ASSeRT Lab has been instrumental in gaining insight into the field of psychology and how that applies to teens."],
+        "bioHeading":"Katie Zucca",
+        "bioImage":"zucca.JPG"
+    },
+    "domico":{
+        "bioContent":["Sarah Domico is in her first year of the Master’s in Mental Health Counseling Program at Rowan. She is presently assisting with the Young Moms Relationship Project (YMRP) and intends to become increasingly involved with ASSeRT’s various research opportunities as the year progresses.",
+                      "Sarah coordinates the peer mentor program for the College of Science and Mathematics in addition to working as a per diem counselor in a partial hospitalization program. She also volunteers as an advocate to empower survivors of sexual violence and hopes to volunteer with human trafficking survivors as well. Sarah’s primary goal is to work with underserved populations in a community mental health setting and she aspires to work with women who are trafficked abroad.",
+                      "During her copious amounts of free time, some of Sarah’s favorite activities include traveling, hiking, trying new restaurants, reading on the beach and playing Settlers of Catan. Sarah can be reached by email at domico21@students.rowan.edu."],
+        "bioHeading":"Sarah Domico",
+        "bioImage":"domico.JPG"
     }
 }

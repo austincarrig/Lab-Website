@@ -5,3 +5,16 @@
 .mainbody p:last-of-type {
     margin-bottom: 120px;
 }
+
+.mainbody a {
+    text-decoration: underline;
+    color: #661a1a;
+}
+
+.mainbody a:hover {
+    text-decoration: none;
+}
+
+.mainbody a.heavy {
+    font-weight: 500;
+}
