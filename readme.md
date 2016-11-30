@@ -35,13 +35,13 @@ If you would like to add additional text, you have 2 options:
 
 An example of one of the publications in *publications.html* is:
 
-'''html
+```html
 <p>
     Joppa, M.C., Rizzo, C. J., &amp; Johnson, J. R.* (2015, May). Information technology, social networking, and controlling behaviors among adolescent girls involved in dating violence. Poster presented at the 2015 Society for Prevention Research Annual Conference, Washington, DC.
 
     [<a href="docs/SPRPoster2015Final.pptx">download</a>]
 </p>
-'''
+```
 
 If you want to add a new publication, you can copy and paste the entirety of HTML for a publication (such as the HTML shown above) and edit the text to match the new publication. If there is a downloadable document for the publication, you should add the new document to the *docs/* folder, and then change the address in the 'href' tag to the proper document name.
 
@@ -49,22 +49,22 @@ If you want to add a new publication, you can copy and paste the entirety of HTM
 
 The way to do this is to go to the *people.html* file and remove the block similar to below for the specific person you want to remove.
 
-'''html
+```html
 <div class="col-sm-4">
     <img src="img/lab_photos/bleiweiss.JPG" class="bw transitions">
     <h5><a href="#openModal" id="bleiweiss" class="heavy">Kaitlyn Bleiweiss</a> | Undergraduate Student</h5>
 </div>
-'''
+```
 
 Additionally you need to edit the *bio.json* file. This is tricky to do so be careful. You should remove the portion resembling the block below, but for the specific person you want removed.
 
-'''json
+```json
 "zucca":{
         "bioContent":["Katie Zucca is a non-matriculating student at Rowan University. She graduated from Wilmington Friends High School in June 2016 and decided to take a gap year prior to attending Furman University. Katie is using her gap year as a way to explore possible career interests. The ASSeRT Lab has been instrumental in gaining insight into the field of psychology and how that applies to teens."],
         "bioHeading":"Katie Zucca",
         "bioImage":"zucca.JPG"
     },
-'''
+```
 
 It's especially important that you focus on balancing the commas. Notice that there is a comma after the last curly bracket. This one needs to be removed along with the rest of the data. If you are removing the last person in the list, they will not have a comma after their block. Instead, you will need to remove the comma before their part.
 
