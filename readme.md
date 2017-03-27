@@ -11,7 +11,7 @@ If you'd like to learn more about HTML, it is pretty straightforward. I recommen
   * [Changing Text](#changing-text)
   * [Adding a Publication](#adding-a-publication)
   * [Removing Someone From the People Page](#removing-someone-from-the-people-page)
-* Adding New Content (coming soon)
+* [Adding New Content](#adding-new-content)
 
 ## Editing The Current Site
 
@@ -23,7 +23,7 @@ If you're going to make a change, you need to find the right file first. Most li
 
 ### Changing Text
 
-This will almost exclusively occur in the \*.html files, between paragraph '<p></p>' elements. Go to the file you are looking to change, and edit the text. Be sure to only change text itself, and not any elements.
+This will almost exclusively occur in the \*.html files, between paragraph '\<p\>\<p\>' elements. Go to the file you are looking to change, and edit the text. Be sure to only change text itself, and not any elements.
 
 If you would like to add additional text, you have 2 options:
 
@@ -36,6 +36,7 @@ If you would like to add additional text, you have 2 options:
 An example of one of the publications in *publications.html* is:
 
 ```html
+options(width=100px)
 <p>
     Joppa, M.C., Rizzo, C. J., &amp; Johnson, J. R.* (2015, May). Information technology, social networking, and controlling behaviors among adolescent girls involved in dating violence. Poster presented at the 2015 Society for Prevention Research Annual Conference, Washington, DC.
 
@@ -67,6 +68,10 @@ Additionally you need to edit the *bio.json* file. This is tricky to do so be ca
 ```
 
 It's especially important that you focus on balancing the commas. Notice that there is a comma after the last curly bracket. This one needs to be removed along with the rest of the data. If you are removing the last person in the list, they will not have a comma after their block. Instead, you will need to remove the comma before their part.
+
+## Adding New Content
+
+This section covers any tasks which involve adding new content to the site. This may be a little more complicated than things in the last section. This will include adding a new person to the "People" page.
 
 ## Contact
 

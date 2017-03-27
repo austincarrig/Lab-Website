@@ -92,5 +92,10 @@
                       "During her copious amounts of free time, some of Sarah’s favorite activities include traveling, hiking, trying new restaurants, reading on the beach and playing Settlers of Catan. Sarah can be reached by email at domico21@students.rowan.edu."],
         "bioHeading":"Sarah Domico",
         "bioImage":"domico.JPG"
+    },
+    "longo":{
+        "bioContent":["Gabrielle is a freshman Psychology and Sociology double major with an Honors concentration. She is currently involved with the Young Mom's Relationship Project, and volunteers with Samaritan Healthcare & Hospice. Gabrielle has experience volunteering and interning at nonprofit organizations, and her research interests include domestic violence and sexual aggression with a focus in prevention. She hopes to achieve her Master's degree in social work and practice with the Division of Child Protection and Permanence."],
+        "bioHeading":"Gabrielle Longo",
+        "bioImage":"longo.jpg"
     }
 }
