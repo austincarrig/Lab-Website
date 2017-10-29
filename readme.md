@@ -60,11 +60,11 @@ This section covers any tasks you may need to complete with respect to changing 
 
 ### Finding The Right File
 
-If you're going to make a change, you need to find the right file first. Most likely you'll be looking for a \*.html file (the * here stands for any word). As an example, if you're looking to change the "Research" page you will edit *people.html*. You will very rarely need to edit \*.css files. If you do need to edit them, be sure to do some learning first, because HTML and CSS are very different. You should **NEVER** edit \*.js files unless you are 100% sure you know what you are doing.
+If you're going to make a change, you need to find the right file first. Most likely you'll be looking for a `*.html` file (the * here stands for any word). As an example, if you're looking to change the "Research" page you will edit *people.html*. You will very rarely need to edit `*.css` files. If you do need to edit them, be sure to do some learning first, because HTML and CSS are very different. You should **NEVER** edit `*.js` files unless you are 100% sure you know what you are doing.
 
 ### Changing Text
 
-This will almost exclusively occur in the \*.html files, between paragraph `\<p\>\</p\>` elements. Go to the file you are looking to change, and edit the text. Be sure to only change text itself, and not any elements.
+This will almost exclusively occur in the `*.html` files, between paragraph `<p></p>` elements. Go to the file you are looking to change, and edit the text. Be sure to only change text itself, and not any elements.
 
 If you would like to add additional text, you have 2 options:
 
@@ -120,11 +120,11 @@ HTML stands for HyperText Markdown Language. Every website on the internet uses 
 
 ### What are elements?
 
-HTML is made up entirely of pieces of code we call elements. Almost all elements come in pairs: an opening tag; and a closing tag. An example of this would be the paragraph tags `\<p\>\</p\>`.
+HTML is made up entirely of pieces of code we call elements. Almost all elements come in pairs: an opening tag; and a closing tag. An example of this would be the paragraph tags `<p></p>`.
 
-Opening tags will always be a less-than sign `\<`, followed by some text denoting the element type (e.g. `p`, `h1`, `body`), followed by a greater-than sign `\>`. As an example, an opening paragraph tag will look like `\<p\>`.
+Opening tags will always be a less-than sign `<`, followed by some text denoting the element type (e.g. `p`, `h1`, `body`), followed by a greater-than sign `>`. As an example, an opening paragraph tag will look like `<p>`.
 
-A closing tag should be identical to it's matching opening tag, except there should be a forward slash `/` right after the less-than sign. A closing paragraph tag will look like `\</p\>`.
+A closing tag should be identical to it's matching opening tag, except there should be a forward slash `/` right after the less-than sign. A closing paragraph tag will look like `</p>`.
 
 HTML elements come in pairs becuase we almost always put something between the tags, and opening and closing tags signify the start and end of a particular element, respectively. So as an example, if we wanted to add a heading to our page with the words "Rowan ASSeRT Psychology Lab", we would use the following tags:
 
@@ -132,7 +132,7 @@ HTML elements come in pairs becuase we almost always put something between the t
 <h1>Rowan ASSeRT Psychology Lab</h1>
 ```
 
-There are exceptions to the "elements come in pairs" rule, most notably the image `\<img\>` element, which has no matching closing element. For these types of elements, the information contained in them is usually specified in the element tag itself, in the form of tag properties. As an example, an image element will specify the location of the image contained within it using the `src` property, like this: `\<img src=\"img/lab_photos/carrig.jpg\"\>`. In this example, `src` is set equal to the location of the image, which in this case is `carrig.jpg`. If you wanted to change which image appeared in the element, you would change the value assigned to the source property.
+There are exceptions to the "elements come in pairs" rule, most notably the image `<img>` element, which has no matching closing element. For these types of elements, the information contained in them is usually specified in the element tag itself, in the form of tag properties. As an example, an image element will specify the location of the image contained within it using the `src` property, like this: `<img src="img/lab_photos/carrig.jpg">`. In this example, `src` is set equal to the location of the image, which in this case is `carrig.jpg`. If you wanted to change which image appeared in the element, you would change the value assigned to the source property.
 
 ### Required Elements
 
