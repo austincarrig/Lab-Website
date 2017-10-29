@@ -44,15 +44,15 @@ On this page there should be an option called "File Manager". You should never n
 
 ![iPage File Manager](/readme_img/ipage-file-manager.png "iPage File Manager")
 
-On this page you'll see all of the files that make up the lab website. On the main page you can see files such as 'people.html' and 'index.html', as well as folders like 'img'.
+On this page you'll see all of the files that make up the lab website. On the main page you can see files such as `people.html` and `index.html`, as well as folders like `img`.
 
 ### Handling Files
 
-There are 3 main buttons you will use if you want to change the website. The first is the blue up arrow in the top options bar. This is used to upload new files to the website. You should only ever need to upload images, unless you are making major changes to the website and adding entriely new pages. Pressing this button will open a file browser in your computer's file system, so you can select the correct file you want to upload from there. If you want to upload the file into the server's /img/lab_photos' folder then you should navigate there first in the iPage File Manager, then use the upload option.
+There are 3 main buttons you will use if you want to change the website. The first is the blue up arrow in the top options bar. This is used to upload new files to the website. You should only ever need to upload images, unless you are making major changes to the website and adding entriely new pages. Pressing this button will open a file browser in your computer's file system, so you can select the correct file you want to upload from there. If you want to upload the file into the server's `/img/lab_photos` folder then you should navigate there first in the iPage File Manager, then use the upload option.
 
 The second button is the blue down arrow next to each file in the File Manager. This will allow you to download the file to your computer.
 
-The third button is the green pencil, which is the "edit" button. If you press this, a screen like the image below will appear on your web page, and you can directly edit the file. You should only really be using this on the '*.html' files and the 'bio.json' file.
+The third button is the green pencil, which is the "edit" button. If you press this, a screen like the image below will appear on your web page, and you can directly edit the file. You should only really be using this on the `*.html` files and the `bio.json` file.
 
 ## Editing The Site
 
@@ -64,13 +64,13 @@ If you're going to make a change, you need to find the right file first. Most li
 
 ### Changing Text
 
-This will almost exclusively occur in the \*.html files, between paragraph '\<p\>\</p\>' elements. Go to the file you are looking to change, and edit the text. Be sure to only change text itself, and not any elements.
+This will almost exclusively occur in the \*.html files, between paragraph `\<p\>\</p\>` elements. Go to the file you are looking to change, and edit the text. Be sure to only change text itself, and not any elements.
 
 If you would like to add additional text, you have 2 options:
 
-1. Add another '<p></p>' set of elements where you would like to add the text. Be sure that this before or after another set, and not inside one. Add your text between these elements.
+1. Add another `<p></p>` set of elements where you would like to add the text. Be sure that this before or after another set, and not inside one. Add your text between these elements.
 2. If you dont want to add any new paragraph elements, but still want another line break in the text, you can use a 
-'<br>' element where you would like the line break to be in the text. This should be within a set of paragraph elements.
+`<br>` element where you would like the line break to be in the text. This should be within a set of paragraph elements.
 
 ### Adding a Publication
 
@@ -85,7 +85,7 @@ options(width=100px)
 </p>
 ```
 
-If you want to add a new publication, you can copy and paste the entirety of HTML for a publication (such as the HTML shown above) and edit the text to match the new publication. If there is a downloadable document for the publication, you should add the new document to the *docs/* folder, and then change the address in the 'href' tag to the proper document name.
+If you want to add a new publication, you can copy and paste the entirety of HTML for a publication (such as the HTML shown above) and edit the text to match the new publication. If there is a downloadable document for the publication, you should add the new document to the *docs/* folder, and then change the address in the `href` tag to the proper document name.
 
 ### Removing Someone From the People Page
 
@@ -120,11 +120,11 @@ HTML stands for HyperText Markdown Language. Every website on the internet uses 
 
 ### What are elements?
 
-HTML is made up entirely of pieces of code we call elements. Almost all elements come in pairs: an opening tag; and a closing tag. An example of this would be the paragraph tags '\<p\>\</p\>'.
+HTML is made up entirely of pieces of code we call elements. Almost all elements come in pairs: an opening tag; and a closing tag. An example of this would be the paragraph tags `\<p\>\</p\>`.
 
-Opening tags will always be a less-than sign '\<', followed by some text denoting the element type (e.g. 'p', 'h1', 'body'), followed by a greater-than sign '\>'. As an example, an opening paragraph tag will look like '\<p\>'.
+Opening tags will always be a less-than sign `\<`, followed by some text denoting the element type (e.g. `p`, `h1`, `body`), followed by a greater-than sign `\>`. As an example, an opening paragraph tag will look like `\<p\>`.
 
-A closing tag should be identical to it's matching opening tag, except there should be a forward slash '/' right after the less-than sign. A closing paragraph tag will look like '\</p\>'.
+A closing tag should be identical to it's matching opening tag, except there should be a forward slash `/` right after the less-than sign. A closing paragraph tag will look like `\</p\>`.
 
 HTML elements come in pairs becuase we almost always put something between the tags, and opening and closing tags signify the start and end of a particular element, respectively. So as an example, if we wanted to add a heading to our page with the words "Rowan ASSeRT Psychology Lab", we would use the following tags:
 
@@ -132,29 +132,29 @@ HTML elements come in pairs becuase we almost always put something between the t
 <h1>Rowan ASSeRT Psychology Lab</h1>
 ```
 
-There are exceptions to the "elements come in pairs" rule, most notably the image '\<img\>' element, which has no matching closing element. For these types of elements, the information contained in them is usually specified in the element tag itself, in the form of tag properties. As an example, an image element will specify the location of the image contained within it using the 'src' property, like this: '\<img src=\"img/lab_photos/carrig.jpg\"\>'. In this example, 'src' is set equal to the location of the image, which in this case is 'carrig.jpg'. If you wanted to change which image appeared in the element, you would change the value assigned to the source property.
+There are exceptions to the "elements come in pairs" rule, most notably the image `\<img\>` element, which has no matching closing element. For these types of elements, the information contained in them is usually specified in the element tag itself, in the form of tag properties. As an example, an image element will specify the location of the image contained within it using the `src` property, like this: `\<img src=\"img/lab_photos/carrig.jpg\"\>`. In this example, `src` is set equal to the location of the image, which in this case is `carrig.jpg`. If you wanted to change which image appeared in the element, you would change the value assigned to the source property.
 
 ### Required Elements
 
-Every HTML file has 3 elements which are required no matter what, and these are the '/<html/>', '/<head/>', and '/<body/>' tags.
+Every HTML file has 3 elements which are required no matter what, and these are the `/<html/>`, `/<head/>`, and `/<body/>` tags.
 
-The '/<html/>' tag is the very highest level element on the web page, and contains all of the content. The only tags that should go in the '/<html/>' element are '/<head/>' and '/<body/>'.
+The `/<html/>` tag is the very highest level element on the web page, and contains all of the content. The only tags that should go in the `/<html/>` element are `/<head/>` and `/<body/>`.
 
-The '/<head/>' should contain all of the information ABOUT the web page, but none of the actual content (like headings, images, and paragraphs). As a lab member you should never need to edit anything contained in this element.
+The `/<head/>` should contain all of the information ABOUT the web page, but none of the actual content (like headings, images, and paragraphs). As a lab member you should never need to edit anything contained in this element.
 
-The '/<body/>' should contain all visible content on the web page. This is where you will put the headings, paragraphs, images, and everything else you can see. This is where almost all of your work will take place.
+The `/<body/>` should contain all visible content on the web page. This is where you will put the headings, paragraphs, images, and everything else you can see. This is where almost all of your work will take place.
 
 ### Common Elements
 
 The most common element types, which you will see in every HTML file in this project, are covered below.
 
-'/<p/>' is used to contain paragraphs and normal sentences.
+`/<p/>` is used to contain paragraphs and normal sentences.
 
-'/<h1/>' through '/<h6/>' are used for different heading sizes, with 1 being the largest and 6 being the smallest. The sizes are somewhat arbitrary and are most often altered by the developer to fit the design needs of the website, but it can be useful for organization to put different "types" of headings in different heading element types.
+`/<h1/>` through `/<h6/>` are used for different heading sizes, with 1 being the largest and 6 being the smallest. The sizes are somewhat arbitrary and are most often altered by the developer to fit the design needs of the website, but it can be useful for organization to put different "types" of headings in different heading element types.
 
-'/<img/>' is used for images. Notably, as explained in the "[What are elements?]"(#what-are-elements) section, the '/<img/>' has no closing tag accompanying it.
+`/<img/>` is used for images. Notably, as explained in the "[What are elements?]"(#what-are-elements) section, the `/<img/>` has no closing tag accompanying it.
 
-'/<div/>' stands for "divider" and is used as an organiztional tool. Rather than containing words, they contain other elements.
+`/<div/>` stands for "divider" and is used as an organiztional tool. Rather than containing words, they contain other elements.
 
 ## Contact the Developer
 
