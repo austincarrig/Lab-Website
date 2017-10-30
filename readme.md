@@ -139,7 +139,6 @@ If anything goes wrong with this, just let me know. Step 2 can be especially tri
 An example of one of the publications in `publications.html` is:
 
 ```html
-options(width=100px)
 <p>
     Joppa, M.C., Rizzo, C. J., &amp; Johnson, J. R.* (2015, May). Information technology, social networking, and controlling behaviors among adolescent girls involved in dating violence. Poster presented at the 2015 Society for Prevention Research Annual Conference, Washington, DC.
 
@@ -171,25 +170,25 @@ There are exceptions to the "elements come in pairs" rule, most notably the imag
 
 ### Required Elements
 
-Every HTML file has 3 elements which are required no matter what, and these are the `/<html/>`, `/<head/>`, and `/<body/>` tags.
+Every HTML file has 3 elements which are required no matter what, and these are the `<html>`, `<head>`, and `<body>` tags.
 
-The `/<html/>` tag is the very highest level element on the web page, and contains all of the content. The only tags that should go in the `/<html/>` element are `/<head/>` and `/<body/>`.
+The `<html>` tag is the very highest level element on the web page, and contains all of the content. The only tags that should go in the `<html>` element are `<head>` and `<body>`.
 
-The `/<head/>` should contain all of the information ABOUT the web page, but none of the actual content (like headings, images, and paragraphs). As a lab member you should never need to edit anything contained in this element.
+The `<head>` should contain all of the information ABOUT the web page, but none of the actual content (like headings, images, and paragraphs). As a lab member you should never need to edit anything contained in this element.
 
-The `/<body/>` should contain all visible content on the web page. This is where you will put the headings, paragraphs, images, and everything else you can see. This is where almost all of your work will take place.
+The `<body>` should contain all visible content on the web page. This is where you will put the headings, paragraphs, images, and everything else you can see. This is where almost all of your work will take place.
 
 ### Common Elements
 
 The most common element types, which you will see in every HTML file in this project, are covered below.
 
-`/<p/>` is used to contain paragraphs and normal sentences.
+`<p>` is used to contain paragraphs and normal sentences.
 
-`/<h1/>` through `/<h6/>` are used for different heading sizes, with 1 being the largest and 6 being the smallest. The sizes are somewhat arbitrary and are most often altered by the developer to fit the design needs of the website, but it can be useful for organization to put different "types" of headings in different heading element types.
+`<h1>` through `<h6>` are used for different heading sizes, with 1 being the largest and 6 being the smallest. The sizes are somewhat arbitrary and are most often altered by the developer to fit the design needs of the website, but it can be useful for organization to put different "types" of headings in different heading element types.
 
-`/<img/>` is used for images. Notably, as explained in the "[What are elements?]"(#what-are-elements) section, the `/<img/>` has no closing tag accompanying it.
+`<img>` is used for images. Notably, as explained in the "[What are elements?]"(#what-are-elements) section, the `<img>` has no closing tag accompanying it.
 
-`/<div/>` stands for "divider" and is used as an organiztional tool. Rather than containing words, they contain other elements.
+`<div>` stands for "divider" and is used as an organiztional tool. Rather than containing words, they contain other elements.
 
 ## Contact the Developer
 
