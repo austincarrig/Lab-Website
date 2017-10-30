@@ -12,7 +12,7 @@ If you'd like to learn more about HTML, it is pretty straightforward. I recommen
 
 ## Outline
 
-* [Accessing iPage](#accesing-ipage)
+* [Accessing iPage](#accessing-ipage)
   * [Logging On](#logging-on)
   * [Handling Files](#handling-files)
 * [Editing The Site](#editing-the-site)
