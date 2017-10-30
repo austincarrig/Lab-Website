@@ -14,6 +14,7 @@ If you'd like to learn more about HTML, it is pretty straightforward. I recommen
 
 * [Accessing iPage](#accesing-ipage)
   * [Logging On](#logging-on)
+  * [Handling Files](#handling-files)
 * [Editing The Site](#editing-the-site)
   * [Finding The Right File](#finding-the-right-file)
   * [Changing Text](#changing-text)
